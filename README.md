@@ -3,7 +3,7 @@
 This is a very simple node script which provide you random sentense.
 You job is just need to convert present tesnse to past tense.
 
-This script helped me a lot to improve my english. So thought why not i share with everybody.
+This script helped me a lot to improve my english. So i thought why not i share with everybody.
 
 So How will you install it?
 
