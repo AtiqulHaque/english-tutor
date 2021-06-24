@@ -19,3 +19,5 @@ Then just type : t
 <div align="center">
     <img src="2.png" width="1000px"></img> 
 </div>
+
+this script will print sentences one by one and time duration is 7 sec.
