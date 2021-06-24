@@ -1,10 +1,13 @@
-# english-tutor
+# English tutor
 
-This script provide you random sentense you just need to convert present tesnse to past tense.
+This is a very simple node script which provide you random sentense.
+You job is just need to convert present tesnse to past tense.
 
-How you install it?
+This script helped me a lot to improve my english. So thought why not i share with everybody.
 
-Just donwnload it, then go to the root folder and type
+So How will you install it?
+
+That is also very simple. Just donwnload it, then go to the root folder and type
 
 npm install -g .
 
