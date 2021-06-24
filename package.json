@@ -1,0 +1,32 @@
+{
+  "name": "eng-guru",
+  "version": "1.0.0",
+  "description": "Tiny little command package english.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtiqulHaque/node-git-watch.git"
+  },
+  "keywords": [
+    "git",
+    "node"
+  ],
+  "author": "Md.Atiqul Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtiqulHaque/node-git-watch/issues"
+  },
+  "homepage": "https://github.com/AtiqulHaque/node-git-watch#readme",
+  "bin": {
+    "eguru": "bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "crypto": "^1.0.1",
+    "yargs": "13.2"
+  }
+}
