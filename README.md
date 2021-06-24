@@ -11,11 +11,11 @@ npm install -g .
 After that just type : eguru
 
 <div align="center">
-    <img src="1.png" width="400px"></img> 
+    <img src="1.png" width="1000px"></img> 
 </div>
 
 Then just type : t
 
 <div align="center">
-    <img src="2.png" width="400px"></img> 
+    <img src="2.png" width="1000px"></img> 
 </div>
