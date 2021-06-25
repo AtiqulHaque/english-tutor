@@ -1,16 +1,16 @@
 let sentences = [
     "The last year i visit Sajek",
-    "I go their with my friend.",
+    "That time I go their with my friend.",
     "I book two ticket of shanti probohon.",
     "i start my journy by takeing a cng.",
     "I reache bus stand.",
     "i wait a lot after that ",
-    " I find my frind.",
+    "I find my frind.",
     "After a log time wait our bus come",
     " we ride on it.",
-    "we reach khagrachori in the morning at 7 oclock.",
+    "Last month we reach khagrachori in the morning at 7 oclock.",
     "we eat bamboo chcken and That is good",
-    "we go kolank mountain",
+    "Last year we go kolank mountain",
     "The valley is only 8 km far from Mizoram, India",
     "It is also known as the ‘Roof of Rangamati’ & ‘The Queen of Hills’. ",
     " As the deep clouds & sudden rain on the valley is the key of attraction, ",
@@ -23,7 +23,21 @@ let sentences = [
     "When i get the riksha suddenly the rain start",
     "The riksha wala ask me where do i want to go",
     "Yesterday i tell them i will not be able to met them",
-    "They reply to me that i not able to joint them, let them know"
+    "They reply to me that i not able to joint them, let them know",
+    "Last winter we go sylhet with my friend",
+    "We start our journy by bus",
+    "we reach sylhet in the morning at 7 oclock",
+    "Over the last three month we planing this sylhet tour",
+    "when we go sada pathor it is so enjoyfull for us",
+    "in sada pathor water is so cold",
+    "we get into that water ",
+    "In Sylhet our hotel is good",
+    "We stay their 3 day",
+    "Their food is too delicious",
+    "I ask waiter can we researve micro",
+    "that time they tell us, yes you can easily book a micro",
+    "when i notice,  that i actually surprise"
+
     
 ]
 

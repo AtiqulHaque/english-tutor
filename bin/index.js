@@ -23,7 +23,7 @@ function listKeys() {
   }
 
 let intervalObj = null;
-let timeDuration = 7000;
+let timeDuration = 10000;
 listKeys();
 
 process.stdin.on('keypress', (str, key) => {
